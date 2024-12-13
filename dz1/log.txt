@@ -1,0 +1,15 @@
+ls
+rm
+tail
+clear
+ls
+ls -l
+clear
+ls
+rl testfolder
+tail
+tail config.ini
+rm config.ini
+clearr
+clear
+exit
